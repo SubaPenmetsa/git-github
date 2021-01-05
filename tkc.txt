@@ -1,1 +1,2 @@
-tkc text added in github cloud
+
+this is text from local in my comp
